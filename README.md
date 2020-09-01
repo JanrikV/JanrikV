@@ -35,7 +35,7 @@ Website: <a href="https://janrikv.fi" alt="My website">janrikv.fi</a>
 
 ## Stats
 
-![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&show_icons=true&theme=cobalt)
+[![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&hide=contribs&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
