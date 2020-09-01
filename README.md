@@ -1,5 +1,6 @@
 # Welcome to my profile!
 
+I'm 26 years old developer from Finland.
 
 ## Social
  <a href="https://twitter.com/intent/follow?screen_name=janrikv">
@@ -9,10 +10,10 @@
 ## Tools and technologies
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%231572B6?style=flat-square&color=red&logo=laravel&logoColor=ffffff)
-![C#](https://img.shields.io/badge/C%23-242424?style=flat-square&logo=c-sharp&labelColor=242424&logoColor=21a7f0)
+![C#](https://img.shields.io/badge/-C%23-%231572B6?style=flat-square&color=%231572B6&logo=c-sharp&logoColor=ffffff)
 
-![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=flat-square&logo=wordpress&labelColor=23282d&logoColor=eee)
-![Drupal](https://img.shields.io/badge/Drupal-064771?style=flat-square&logo=drupal&labelColor=064771&logoColor=fff)
+![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=flat-square&logo=wordpress&logoColor=eee)
+![Drupal](https://img.shields.io/badge/Drupal-064771?style=flat-square&logo=drupal&logoColor=fff)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
