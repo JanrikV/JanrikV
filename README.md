@@ -1,8 +1,9 @@
 # Welcome to my profile!
 
-I'm 26 years old developer from Finland.
+Full-stack developer
 
-Website: <a href="https://janrikv.fi" alt="My website">janrikv.fi</a>
+- <a href="https://janrikv.fi">Website</a> <br />
+- <a href="https://twitter.com/janrikv">Twitter</a>
 
 ## Social
  <a href="https://twitter.com/intent/follow?screen_name=janrikv">
