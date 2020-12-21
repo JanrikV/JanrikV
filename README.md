@@ -5,7 +5,7 @@ Full-stack developer
 - <a href="https://janrikv.fi">Website</a> <br />
 - <a href="https://twitter.com/janrikv">Twitter</a>
 
-## Social
+## Social media
  <a href="https://twitter.com/intent/follow?screen_name=janrikv">
         <img src="https://img.shields.io/twitter/follow/janrikv?style=social&logo=twitter"
             alt="follow on Twitter"></a>
