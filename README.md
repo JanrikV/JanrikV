@@ -2,8 +2,9 @@
 
 Full-stack developer
 
-- <a href="https://janrikv.fi">Website</a> <br />
-- <a href="https://twitter.com/janrikv">Twitter</a>
+- <a href="https://janrikv.fi">Website</a><br />
+- <a href="https://twitter.com/janrikv">Twitter</a><br />
+- <a href="https://letterboxd.com/janrikv">Letterboxd</a>
 
 ## Social media
  <a href="https://twitter.com/intent/follow?screen_name=janrikv">
