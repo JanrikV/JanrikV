@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-Full-stack developer
+Web developer
 
 - <a href="https://janrikv.fi">Website</a><br />
 - <a href="https://twitter.com/janrikv">Twitter</a><br />
