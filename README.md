@@ -1,6 +1,8 @@
-# Welcome to my profile!
+# Hi, welcome to my profile!
 
-Web developer
+I’m a full stack developer, who live in Finland.
+
+To reach out to me, you can drop an email to janrik@janrikv.fi.
 
 - <a href="https://janrikv.fi">Website</a><br />
 - <a href="https://twitter.com/janrikv">Twitter</a><br />
