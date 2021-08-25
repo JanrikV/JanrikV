@@ -13,7 +13,7 @@ To reach out to me, you can drop an email to janrik@janrikv.fi.
         <img src="https://img.shields.io/twitter/follow/janrikv?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 
-## Tools and technologies
+## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%231572B6?style=flat-square&color=red&logo=laravel&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-%231572B6?style=flat-square&color=%231572B6&logo=c-sharp&logoColor=ffffff)
