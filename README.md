@@ -8,10 +8,6 @@ To reach out to me, you can drop an email to janrik@janrikv.fi.
 - <a href="https://twitter.com/janrikv">Twitter</a><br />
 - <a href="https://letterboxd.com/janrikv">Letterboxd</a>
 
-## Social media
- <a href="https://twitter.com/intent/follow?screen_name=janrikv">
-        <img src="https://img.shields.io/twitter/follow/janrikv?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
 
 ## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
