@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a full stack developer, who live in Finland.
+I'm a Full Stack developer living in Finland and I works full-time as a freelancer.
 
 To reach out to me, you can drop an email to janrik@janrikv.fi.
 
