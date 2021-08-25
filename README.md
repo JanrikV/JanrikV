@@ -1,4 +1,4 @@
-# Hi, welcome to my profile!
+# Hi there 👋
 
 I’m a full stack developer, who live in Finland.
 
