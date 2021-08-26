@@ -13,9 +13,9 @@ To reach out to me, you can drop an email to janrik@janrikv.fi.
 
 
 
-[![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&hide=contribs&show_icons=true&count_private=true&theme=cobalt&exclude_repo=food4you-ordering-system)](https://github.com/anuraghazra/github-readme-stats)
+[![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&hide=contribs&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![JanrikV Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanrikV&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![JanrikV Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanrikV&layout=compact&theme=cobalt&exclude_repo=food4you-ordering-system)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
