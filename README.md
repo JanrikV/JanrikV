@@ -4,10 +4,18 @@ I'm a Full Stack developer living in Finland and I works full-time as a <b>freel
 
 To reach out to me, you can drop an email to janrik@janrikv.fi.
 
-- <a href="https://janrikv.fi">Website</a><br />
+- <a href="https://janrikv.fi">My website</a><br />
+- <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
 - <a href="https://twitter.com/janrikv">Twitter</a><br />
 - <a href="https://letterboxd.com/janrikv">Letterboxd</a>
 
+[![Visits Badge](https://badges.pufler.dev/visits/JanrikV/JanrikV)](https://badges.pufler.dev)
+
+
+
+[![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&hide=contribs&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JanrikV Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanrikV&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
@@ -29,16 +37,9 @@ To reach out to me, you can drop an email to janrik@janrikv.fi.
 
 ![VSCode](https://img.shields.io/badge/VSCode-%232c2c32?style=flat-square&logo=visual-studio-code&logoColor=21a7f0)
 
-## Visits
-
-[![Visits Badge](https://badges.pufler.dev/visits/JanrikV/JanrikV)](https://badges.pufler.dev)
-
-## Stats
-
-[![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&hide=contribs&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
 <a href="https://github.com/JanrikV/Mythos">
-		<img src="https://raw.githubusercontent.com/JanrikV/Mythos/master/assets/images/mythos.png" width="500" height="150">
+<img src="https://raw.githubusercontent.com/JanrikV/Mythos/master/assets/images/mythos.png" width="500" height="150">
 </a>
