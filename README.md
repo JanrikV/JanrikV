@@ -2,7 +2,8 @@
 
 I'm a Full Stack developer living in Finland and I work full-time as a <b>freelancer</b>.
 
-To reach out to me, you can drop an email to janrik@janrikv.fi.
+An interesting project idea? Drop me an email
+janrik@janrikv.fi.
 
 - <a href="https://janrikv.fi">My website</a><br />
 - <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
