@@ -9,6 +9,7 @@ janrik@janrikv.fi.
 - <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
 - <a href="https://twitter.com/janrikv">Twitter</a><br />
 - <a href="https://letterboxd.com/janrikv">Letterboxd</a>
+- <a href="https://gist.github.com/JanrikV">Gists</a>
 
 [![Visits Badge](https://badges.pufler.dev/visits/JanrikV/JanrikV)](https://badges.pufler.dev)
 
