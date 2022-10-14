@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Full Stack developer living in Finland and I work full-time as a <b>freelancer</b>.
+I'm a Web developer living in Finland and I work full-time as a <b>freelancer</b>.
 
 An interesting project idea? Drop me an email
 janrik@janrikv.fi.
@@ -44,3 +44,8 @@ janrik@janrikv.fi.
 <a href="https://github.com/JanrikV/Mythos">
 <img src="https://raw.githubusercontent.com/JanrikV/Mythos/master/assets/images/mythos.png" width="500" height="150">
 </a>
+
+
+
+![> MediaInfo Wrapper - Win form application](https://github.com/JanrikV/MediaInfo-Wrapper)
+
