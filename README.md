@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm a Web developer living in Finland and I work full-time as a <b>freelancer</b>.
+I'm a Web developer living in Finland. I work full-time as a <b>freelancer</b>.
 
-An interesting project idea? Drop me an email
+Have a neat project idea in mind? Drop me an email!
 janrik@janrikv.fi.
 
 - <a href="https://janrikv.fi">My website</a><br />
