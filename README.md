@@ -3,7 +3,7 @@
 I'm a Web developer living in Finland. I work full-time as a <b>freelancer</b>.
 
 Have a neat project idea in mind? Drop me an email!
-janrik@janrikv.fi.
+janrik@janrikv.fi
 
 - <a href="https://janrikv.fi">My website</a><br />
 - <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
