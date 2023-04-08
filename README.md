@@ -2,8 +2,7 @@
 
 <p align="left">I'm a Web developer living in Finland. I work full-time as a <b>freelancer</b>.</p>
 
-<p align="left">Have a neat project idea in mind? Drop me an email!</p>
-<p align="left">📫 moi@janrikv.fi</p>
+Have a neat project idea in mind? Drop me an email **moi@janrikv.fi**
 
 - <a href="https://janrikv.fi">My website</a><br />
 - <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
