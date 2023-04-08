@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm a Web developer living in Finland. I work full-time as a <b>freelancer</b>.
+<p align="left">I'm a Web developer living in Finland. I work full-time as a <b>freelancer</b>.</p>
 
-Have a neat project idea in mind? Drop me an email!
-janrik@janrikv.fi
+<p align="left">Have a neat project idea in mind? Drop me an email!</p>
+<p align="left">📫 janrik@janrikv.fi</p>
 
 - <a href="https://janrikv.fi">My website</a><br />
 - <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
@@ -11,9 +11,7 @@ janrik@janrikv.fi
 - <a href="https://letterboxd.com/janrikv">Letterboxd</a>
 - <a href="https://gist.github.com/JanrikV">Gists</a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/JanrikV/JanrikV)](https://badges.pufler.dev)
-
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=janrikv&label=Profile%20views&color=0e75b6&style=flat" alt="janrikv" /></p>
 
 [![JanrikV github stats](https://github-readme-stats.vercel.app/api?username=JanrikV&hide=contribs&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,6 +44,4 @@ janrik@janrikv.fi
 </a>
 
 
-
-![> MediaInfo Wrapper - Win form application](https://github.com/JanrikV/MediaInfo-Wrapper)
-
+<p align="left">&rsaquo; <a href="https://github.com/JanrikV/MediaInfo-Wrapper">MediaInfo Wrapper - Windows Forms app</a></p>
