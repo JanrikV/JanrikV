@@ -45,6 +45,6 @@ Have a neat project idea in mind? Drop me an email **moi@janrikv.fi**
 
 <p>
   <a href="https://github.com/JanrikV/MediaInfo-Wrapper">
-    <img src="https://raw.githubusercontent.com/JanrikV/MediaInfo-Wrapper/main/img/MediaInfoWrapper-VideoDetails.png" width="500" height="150">
+    <img src="https://raw.githubusercontent.com/JanrikV/MediaInfo-Wrapper/main/img/MediaInfoWrapper-VideoDetails.png" width="350" height="200">
   </a>
 </p>
