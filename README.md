@@ -37,10 +37,14 @@ Have a neat project idea in mind? Drop me an email **moi@janrikv.fi**
 
 
 ## Projects
+<p>
+  <a href="https://github.com/JanrikV/Mythos-wn">
+    <img src="https://raw.githubusercontent.com/JanrikV/Mythos-wn/master/assets/images/mythos.png" width="500" height="150">
+  </a>
+</p>
 
-<a href="https://github.com/JanrikV/Mythos">
-<img src="https://raw.githubusercontent.com/JanrikV/Mythos/master/assets/images/mythos.png" width="500" height="150">
-</a>
-
-
-<p align="left">&rsaquo; <a href="https://github.com/JanrikV/MediaInfo-Wrapper">MediaInfo Wrapper - Windows Forms app</a></p>
+<p>
+  <a href="https://github.com/JanrikV/MediaInfo-Wrapper">
+    <img src="https://raw.githubusercontent.com/JanrikV/MediaInfo-Wrapper/main/img/MediaInfoWrapper-VideoDetails.png" width="500" height="150">
+  </a>
+</p>
