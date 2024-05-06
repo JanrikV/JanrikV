@@ -15,7 +15,6 @@ Have a neat project idea in mind? Drop me an email **moi@janrikv.fi**
 ## Languages and Tools
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff) 
 ![Laravel](https://img.shields.io/badge/-Laravel-%231572B6?style=flat-square&color=red&logo=laravel&logoColor=ffffff) 
-![C#](https://img.shields.io/badge/-C%23-%231572B6?style=flat-square&color=%231572B6&logo=c-sharp&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=flat-square&logo=wordpress&logoColor=eee)
 ![Drupal](https://img.shields.io/badge/Drupal-064771?style=flat-square&logo=drupal&logoColor=fff)
 
