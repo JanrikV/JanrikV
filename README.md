@@ -26,7 +26,7 @@ Have a neat project idea in mind? Drop me an email **moi@janrikv.fi**
 
 ## Projects
 <p>
-  <a href="https://github.com/JanrikV/wn-mythos-landing-theme">
+  <a href="https://github.com/JanrikV/wn-mythos-theme">
     <img src="https://raw.githubusercontent.com/JanrikV/wn-mythos-theme/master/assets/images/mythos.png" width="500" height="150">
   </a>
 </p>
