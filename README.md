@@ -6,7 +6,6 @@ Have a neat project idea in mind? Drop me an email **moi@janrikv.fi**
 
 - <a href="https://janrikv.fi">My website</a><br />
 - <a href="https://www.linkedin.com/in/janrikv/">LinkedIn</a><br />
-- <a href="https://twitter.com/janrikv">Twitter</a><br />
 - <a href="https://letterboxd.com/janrikv">Letterboxd</a>
 - <a href="https://gist.github.com/JanrikV">Gists</a>
 
